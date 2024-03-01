@@ -1,0 +1,8 @@
+// edição [2] para testar o commit
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("");
+		System.out.println("Hello, World!");
+	}
+}
+
